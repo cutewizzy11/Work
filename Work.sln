@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jurilinka", "Jurilinka\Jurilinka.csproj", "{1F2D063F-887B-4375-BE1F-E701B1C4C0CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F2D063F-887B-4375-BE1F-E701B1C4C0CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F2D063F-887B-4375-BE1F-E701B1C4C0CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F2D063F-887B-4375-BE1F-E701B1C4C0CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F2D063F-887B-4375-BE1F-E701B1C4C0CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E716D7E-AD26-4D18-A649-85CC81B919AF}
+	EndGlobalSection
+EndGlobal
