@@ -213,6 +213,12 @@
     <Compile Include="PaymentsForm.Designer.cs">
       <DependentUpon>PaymentsForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="ProfileSetupForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfileSetupForm.Designer.cs">
+      <DependentUpon>ProfileSetupForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="PushNotificationsForm.cs">
       <SubType>Form</SubType>
     </Compile>
